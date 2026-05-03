@@ -1,0 +1,25 @@
+# CareFlow AI Tasks
+
+- [x] Initialize project and setup dependencies
+  - [x] Create project files
+  - [x] Integrate `lucide-react` (pivoted to CDN for Vanilla JS)
+- [x] Set up design system
+  - [x] Global CSS variables (`index.css`)
+  - [x] Premium fonts and typography (Inter)
+- [x] Build core layout components
+  - [x] Main layout structure
+  - [x] Sidebar Navigation
+  - [x] Top Bar
+- [x] Develop Smart Dashboard
+  - [x] Quick Stats cards
+  - [x] Patient Management View
+- [x] Develop AI Assistant Panel
+  - [x] Chat interface layout
+  - [x] Simulated typing effect and auto-responses
+- [x] Implement Quick Actions & Notifications
+  - [x] Toast notification system
+  - [x] Quick Action buttons
+- [x] Final polish and data mocking
+  - [x] Mock patient data
+  - [x] Smooth micro-animations
+  - [x] Responsiveness test

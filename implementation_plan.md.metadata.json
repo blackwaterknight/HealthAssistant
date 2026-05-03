@@ -1,0 +1,7 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Plan to replace the mock AI simulation with a real API call to an Azure Agent, including open questions for the user regarding endpoint details.",
+  "updatedAt":  "2026-04-29T20:53:57.778518100Z",
+  "version":  "1",
+  "requestFeedback":  true
+}

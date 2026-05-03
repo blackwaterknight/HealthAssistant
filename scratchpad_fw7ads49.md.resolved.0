@@ -1,0 +1,10 @@
+# CareFlow AI Verification Task
+
+- [ ] Navigate to the application URL
+- [ ] Observe UI (premium feel, blue/white theme, rounded corners)
+- [ ] Click "Summarize Patient Case" button
+- [ ] Verify toast notification
+- [ ] Verify AI typing effect and response
+- [ ] Type "hello" and send in chat
+- [ ] Verify AI response to "hello"
+- [ ] Capture final state screenshot

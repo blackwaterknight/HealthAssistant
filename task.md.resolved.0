@@ -1,0 +1,25 @@
+# CareFlow AI Tasks
+
+- [/] Initialize project and setup dependencies
+  - [ ] Create Vite React app
+  - [ ] Install `lucide-react`
+- [ ] Set up design system
+  - [ ] Global CSS variables (`index.css`)
+  - [ ] Premium fonts and typography
+- [ ] Build core layout components
+  - [ ] Main layout structure
+  - [ ] Sidebar Navigation
+  - [ ] Top Bar
+- [ ] Develop Smart Dashboard
+  - [ ] Quick Stats cards
+  - [ ] Patient Management View
+- [ ] Develop AI Assistant Panel
+  - [ ] Chat interface layout
+  - [ ] Simulated typing effect and auto-responses
+- [ ] Implement Quick Actions & Notifications
+  - [ ] Toast notification system
+  - [ ] Quick Action buttons
+- [ ] Final polish and data mocking
+  - [ ] Mock patient data
+  - [ ] Smooth micro-animations
+  - [ ] Responsiveness test
